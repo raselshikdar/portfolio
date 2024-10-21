@@ -1,13 +1,13 @@
 ---
-title: Podcasts - Anthony Fu
+title: Podcasts - Rasel Shikdar
 display: ''
 art: plum
 items:
-  - title: 'Views on Vue #144 - Exploring Vitesse with Anthony Fu'
+  - title: 'Views on Vue #144 - Exploring Vitesse with Rasel Shikdar'
     date: '2021-03-02'
     path: 'https://viewsonvue.com/144'
     radio: true
-  - title: 'Enjoy the Vue #62 - Shaving Yaks with Anthony Fu'
+  - title: 'Enjoy the Vue #62 - Shaving Yaks with Rasel Shikdar'
     date: '2021-05-24'
     path: 'https://enjoythevue.io/episodes/62'
     radio: true
