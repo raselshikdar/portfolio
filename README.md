@@ -1,6 +1,4 @@
-## **[me.rasel.us.kg](https://me.rasel.us.kg)**
-
-my personal website
+### My personal website **[me.rasel.us.kg](https://me.rasel.us.kg)**
 
 Firstly built by **[antfu.me](https://antfu.me)**
 
