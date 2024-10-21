@@ -1,8 +1,8 @@
 ---
-title: Sponsors - Anthony Fu
+title: Sponsors - Rasel Shikdar
 display: Sponsors
 subtitle: Great thanks for all the Sponsors!
-description: Sponsors of Anthony Fu
+description: Sponsors of Rasel Shikdar
 ---
 
 <!-- @layout-full-width -->
